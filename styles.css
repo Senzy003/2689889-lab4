@@ -1,7 +1,7 @@
 .spinner {
     width: 40px;
     height: 40px;
-    border: 5px solid blue; 
+    border: 5px solid black; 
     animation: spin 1s linear infinite; 
     margin: 20px auto; 
 }
